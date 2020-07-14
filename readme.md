@@ -41,3 +41,4 @@
 1. Clone
 2. Set AutoLoad on acad.exe "MyCommandList.lsp"
    - Tool -> ApplicationLoad -> Startup Registration
+3. Make sure acad.exe knows a path to "500_LSPFiles" directory.
