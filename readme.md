@@ -14,7 +14,27 @@
 - Make new named layer
 - Generate layer color randomly(Optimized for black background color)
 
-#### Other than that above is what I got from Internet...
+### HoleSide.lsp
+
+- Make sideview of hole with centerline as random named Block.
+
+### HoleTop.lsp
+
+- Make topview of hole with centermark as random named Block.
+
+### MDTapside.lsp
+  
+- Make sideview of tapped hole with centerline as random named Block.
+- Metrical tap size
+
+### MDTapTop.lsp
+
+- Make topview of tapped hole with centermark as random named Block.
+- Metrical tap size
+
+### SlotTop.lsp
+
+- Make topview of Slot hole with centerlines as random named Block
 
 ## usage
 
