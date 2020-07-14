@@ -4,7 +4,7 @@
 
 ### BGColorChange.lsp
 
-- Change background color(Model spacee only, not layout space)
+- Change background color(Model space only, not layout space)
 - Command "bgb" -> change to "Black"
 - Command "bgw" -> change to "White"
 - Command "bgg" -> change to "Grey"
