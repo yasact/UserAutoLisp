@@ -16,4 +16,8 @@
 
 #### Other than that above is what I got from Internet...
 
-## 190117 Marge to 1 file(AutoLispByYas.lsp)
+## usage
+
+1. Clone
+2. Set AutoLoad on acad.exe "MyCommandList.lsp"
+   - Tool -> ApplicationLoad -> Startup Registration
